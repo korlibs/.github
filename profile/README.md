@@ -1,4 +1,6 @@
-## Hi there 👋
+## KorGE: <https://korge.org/>
+## Documentation: <https://docs.korge.org/>
+## Development: <https://github.com/korlibs/korge-next>
 
 <!--
 
