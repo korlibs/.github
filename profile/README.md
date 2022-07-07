@@ -2,6 +2,8 @@
 ## Documentation: <https://docs.korge.org/>
 ## Development: <https://github.com/korlibs/korge>
 
+Old repos (with history): <https://github.com/korlibs-archive>
+
 <!--
 
 **Here are some ideas to get you started:**
