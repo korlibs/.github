@@ -1,4 +1,4 @@
-## KorGE: <https://korge.org/>
+## KorGE: <https://korge.org/> - [[Issues]](https://github.com/orgs/korlibs/projects/19)
 ## Documentation: <https://docs.korge.org/>
 ## Development: <https://github.com/korlibs/korge>
 
