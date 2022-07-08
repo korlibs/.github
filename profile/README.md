@@ -1,5 +1,5 @@
-## KorGE: <https://korge.org/> - [[Issues]](https://github.com/orgs/korlibs/projects/19)
-## Documentation: <https://docs.korge.org/>
+## KorGE: <https://korge.org/> - [[Issues]](https://github.com/orgs/korlibs/projects/19) - [[Report]](https://github.com/korlibs/korge/issues)
+## Documentation: <https://docs.korge.org/> - [[Propose changes]](https://github.com/korlibs/docs.korge.org)
 ## Development: <https://github.com/korlibs/korge>
 
 Old repos (with history): <https://github.com/korlibs-archive>
