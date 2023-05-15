@@ -1,6 +1,8 @@
 ## KorGE: <https://blog.korge.org/> - [[Issues]](https://github.com/orgs/korlibs/projects/19) - [[Report]](https://github.com/korlibs/korge/issues)
+## Store: <https://store.korge.org/>
 ## Documentation: <https://docs.korge.org/> - [[Propose changes]](https://github.com/korlibs/docs.korge.org)
 ## Development: <https://github.com/korlibs/korge>
+## Showcases repository: <https://github.com/korge-showcases>
 
 Old repos (with history): <https://github.com/korlibs-archive>
 
