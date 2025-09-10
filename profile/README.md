@@ -6,7 +6,6 @@
 
 Old repos (with history): <https://github.com/korlibs-archive>
 
-Web links: <https://github.com/korlibs-web>
 
 # Citizen Code of Conduct
 
