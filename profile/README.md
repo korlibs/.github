@@ -1,4 +1,5 @@
 ## KorGE: <https://korge.org/> - [[Issues]](https://github.com/korlibs/korge/issues) - [[Report]](https://github.com/orgs/korlibs/projects/19)
+## Blog: <https://blog.korge.org/>
 ## Store: <https://store.korge.org/>
 ## Documentation: <https://docs.korge.org/> - [[Propose changes]](https://github.com/korlibs/docs.korge.org)
 ## Development: <https://github.com/korlibs/korge>
