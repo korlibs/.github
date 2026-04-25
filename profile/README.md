@@ -2,10 +2,13 @@
 ## Blog: <https://blog.korge.org/>
 ## Store: <https://store.korge.org/>
 ## Documentation: <https://docs.korge.org/> - [[Propose changes]](https://github.com/korlibs/docs.korge.org)
-## Development: <https://github.com/korlibs/korge>
+## Development:
+### Korlibs <https://github.com/korlibs/korlibs>
+### Korge <https://github.com/korlibs/korge>
 ## Showcases repository: <https://github.com/korge-showcases>
 
-Old repos (with history): <https://github.com/korlibs-archive>
+Old repos (with history):
+<https://github.com/korlibs-archive>
 
 
 # Citizen Code of Conduct
